@@ -1,0 +1,10 @@
+Hello, research!
+
+* Goals
++ Maintain documentation on everything I research
+  + This should be done primarily though org-mode
++ Organize pursuits
+  + Track notes on papers read
+  + Track thoughts and contemplations
++ Develop a proof-of-concept
+  + It should be possible to create a DSL implementing this project
